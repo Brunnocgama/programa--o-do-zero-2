@@ -20,6 +20,7 @@ body {
 }
 .box-text {
     width: 500px;
+    margin-left: -300px;
 }
 
 .box-img{
@@ -61,7 +62,8 @@ button {
 }
 .logo {
     width: 60px;
-    position: fixed;/*coloquei*/
+    margin-top: -45%;
+    /*coloquei*/
 }
 .starbucks {
     width: 340px;
