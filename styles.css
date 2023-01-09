@@ -16,7 +16,7 @@ body {
     display: flex;
     justify-content:space-between; /*espaço entre os elementos*/
     align-items: center;
-    margin-top: -5%;
+    margin-top: -0.5%;
 }
 .box-text {
     width: 500px;
@@ -61,6 +61,7 @@ button {
 }
 .logo {
     width: 60px;
+    position: fixed;/*coloquei*/
 }
 .starbucks {
     width: 340px;
