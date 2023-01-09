@@ -16,9 +16,10 @@ body {
     display: flex;
     justify-content:space-between; /*espaço entre os elementos*/
     align-items: center;
+    margin-top: -5%;
 }
 .box-text {
-    width: 600px;
+    width: 500px;
 }
 
 .box-img{
@@ -31,7 +32,6 @@ body {
 .menu {
     display: flex;
     justify-content:center ;
-   
 }
 
 h2 {
